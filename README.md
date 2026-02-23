@@ -6,23 +6,35 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Systems+Thinker"/>
 
-<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="160" alt="AI Robot"/>
+</div>
+
+---
+
+## 🤖 Your AI Engineer (Meet the Mascot)
+
+<div align="center">
+
+<img src="https://robohash.org/CHILLSCODER?set=set4&size=220x220" alt="Chills Coder Robot"/>
+
+### **CHILLS-BOT v1.0**
+_AI-Powered • Cloud-Native • Automation-Ready_
 
 </div>
 
 ---
 
-## 🤖 About Me
+## 🧠 About Me
 
-I’m a **Full Stack Engineer & Automation Architect** designing **intelligent, scalable, production-grade systems** at the intersection of **web, cloud, and AI**.
+I’m a **Full Stack Engineer & Automation Architect** focused on building  
+**intelligent, scalable, production-grade systems** across web, cloud, and AI.
 
-I specialize in:
-- 🧠 AI-powered applications & automation  
-- ☁️ Cloud-native & microservice architectures  
-- 🧩 Complex system design & integration  
-- 📊 Data-driven decision platforms  
+**Core strengths**
+- 🤖 AI systems & automation pipelines  
+- ☁️ Cloud-native microservices  
+- 🧩 Complex system architecture  
+- 📊 Data-driven platforms  
 
-> I build systems that **think, scale, and evolve**.
+> I don’t just write code — I design **systems that think and scale**.
 
 ---
 
@@ -31,7 +43,7 @@ I specialize in:
 <div align="center">
 
 <a href="https://portfolio-3ee27.web.app/">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/View%20Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=0B1F3A"/>
 </a>
 
 <br><br>
@@ -55,7 +67,7 @@ I specialize in:
 
 ---
 
-## 🧠 Core Technologies
+## 🚀 Core Technology Stack
 
 <div align="center">
 
@@ -83,6 +95,18 @@ I specialize in:
 
 ---
 
+## 🧠 Recent Development Activity (Live)
+
+<div align="center">
+
+<img src="https://github-readme-activity.vercel.app/graph?username=1234manucho&theme=github-dark&hide_border=true"/>
+
+</div>
+
+> Shows **real-time commits, merges, issues & PRs**
+
+---
+
 ## 🗺️ Contribution Heatmap
 
 <div align="center">
@@ -93,7 +117,20 @@ I specialize in:
 
 ---
 
-## 🆕 Recently Active Projects
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Architecture-AWS%20%7C%20GCP-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-TensorFlow%20%7C%20PyTorch-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-✔-0B1F3A?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌍 Open-Source Highlights
 
 <div align="center">
 
@@ -102,6 +139,8 @@ I specialize in:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=AgriTrue&theme=dark&bg_color=0B1F3A&title_color=FFD700&hide_border=true"/>
 
 </div>
+
+> Focused on **real-world impact, scalability, and automation**
 
 ---
 
