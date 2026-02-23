@@ -1,23 +1,22 @@
-<!-- ================= HERO HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142850&height=240&section=header&text=CHILLS%20CODER&fontSize=58&fontColor=FFD700&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142850&height=230&section=header&text=CHILLS%20CODER&fontSize=58&fontColor=FFD700&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data-Driven+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data+Driven+Developer"/>
 
 </div>
 
 ---
 
-## 🤖 Meet My AI Mascot
+## 🤖 CHILLS-BOT (Custom Animated Mascot)
 
 <div align="center">
 
-<img src="https://robohash.org/CHILLSCODER?set=set4&size=220x220" alt="Chills Coder Robot"/>
+<img src="assets/chills-bot.svg" width="220"/>
 
-### **CHILLS-BOT**
-_AI-Powered • Data-Driven • Cloud-Native_
+**AI-Powered • Data-Driven • Always Building**
 
 </div>
 
@@ -25,27 +24,24 @@ _AI-Powered • Data-Driven • Cloud-Native_
 
 ## 💫 About Me
 
-I’m a **highly motivated and versatile Full Stack Web Developer** with a **strong foundation in statistics and data science**.
+I’m a **Full Stack Engineer** focused on building **scalable, intelligent, and data-driven systems** across web, cloud, and automation ecosystems.
 
-My expertise goes beyond building applications — I **analyze data, extract insights, and design intelligent systems** that support data-driven decision-making.
+**What I do best**
+- 🚀 Modern Web Engineering  
+- ☁️ Cloud-Native Architectures  
+- 🤖 AI-Assisted Automation  
+- 📊 Data Science & Analytics  
 
-### What I bring:
-- 🧠 Statistical thinking & data science methodologies  
-- 🐍 Advanced Python & Excel analytics  
-- 🤖 AI-assisted automation systems  
-- ☁️ Cloud-native & microservice architectures  
-- 🌐 Full-stack web engineering  
-
-> I build **smart systems**, not just software.
+I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🌐 Live Portfolio
+## 🌐 Portfolio
 
 <div align="center">
 
 <a href="https://portfolio-3ee27.web.app/">
-<img src="https://img.shields.io/badge/View%20Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/View%20Live%20Portfolio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=FFD700"/>
 </a>
 
 <br><br>
@@ -61,76 +57,74 @@ My expertise goes beyond building applications — I **analyze data, extract ins
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baba_kaunty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/chills%20emmanuel)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/cocktail%20one)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cocktail%20one)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cocktail%20one)
-[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=0B1F3A)](mailto:onecocktail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:onecocktail@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Core Technology Stack
+## 🚀 Core Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,go,php,c,cpp,csharp,scala,r,html,css,react,next,nodejs,flask,django,laravel,angular,bootstrap,tailwind,mongodb,postgres,mysql,sqlite,firebase,docker,kubernetes,aws,gcp,azure,cloudflare,git,linux,nginx,tensorflow,pytorch&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,go,php,c,cpp,csharp,r,scala,swift,rust,dart,html,css,react,next,nodejs,flask,django,laravel,angular,mongodb,mysql,postgres,sqlite,firebase,docker,kubernetes,aws,gcp,azure,git,linux,nginx,tensorflow,pytorch&perline=12"/>
 
 </div>
 
 ---
 
-## 🧠 Data Science & AI Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234manucho&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234manucho&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=FFD700&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Performance
+## 🔥 Contribution Streak (Gold Fire)
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1234manucho&theme=dark&hide_border=true&background=0B1F3A&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700"/>
-
-</div>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=1234manucho&show_icons=true&theme=dark&hide_border=true&bg_color=0B1F3A&title_color=FFD700&icon_color=FFD700"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234manucho&layout=compact&theme=dark&hide_border=true&bg_color=0B1F3A&title_color=FFD700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1234manucho&theme=highcontrast&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🗺️ Contribution Heatmap
+## 🧬 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1234manucho&bg_color=0B1F3A&color=FFD700&line=FFB000&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=1234manucho&theme=onedark&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## 🧠 Recent Development Activity
+## 🧠 Recent Activity (Auto-Updating)
 
 <div align="center">
 
-<img src="https://github-readme-activity.vercel.app/graph?username=1234manucho&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1234manucho&bg_color=0B1F3A&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧠 Latest Repositories (Auto-Rotating)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=NjiaMoja&hide_border=true&bg_color=0B1F3A&title_color=FFD700"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=AgriTrue&hide_border=true&bg_color=0B1F3A&title_color=FFD700"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=WorkLinkAfrica&hide_border=true&bg_color=0B1F3A&title_color=FFD700"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=MachineAnalyzer&hide_border=true&bg_color=0B1F3A&title_color=FFD700"/>
 
 </div>
 
@@ -138,36 +132,31 @@ My expertise goes beyond building applications — I **analyze data, extract ins
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+- 🥇 Advanced Full-Stack Engineering  
+- ☁️ Cloud Architecture & DevOps  
+- 🤖 AI & Machine Learning Systems  
+- 📊 Data-Driven Product Development  
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science%20%26%20Statistics-0B1F3A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Automation-TensorFlow%20%7C%20PyTorch-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Contributor-✔-0B1F3A?style=for-the-badge"/>
-
-</div>
+_(Certifications and awards updated continuously)_
 
 ---
 
 ## 🌍 Open-Source Highlights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=NjiaMoja&theme=dark&bg_color=0B1F3A&title_color=FFD700&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=AgriTrue&theme=dark&bg_color=0B1F3A&title_color=FFD700&hide_border=true"/>
-
-</div>
+- 🔓 Contributor to community-driven platforms  
+- 🧠 AI-powered document & media analysis tools  
+- 🌐 Scalable fintech & automation systems  
+- 🚀 Production-ready Flask & Cloud apps  
 
 ---
 
-## 🐍 Contribution Flow
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -184,11 +173,11 @@ My expertise goes beyond building applications — I **analyze data, extract ins
 
 ---
 
-## 💛 Support My Work
+## 💰 Support My Work
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/onecocktail544@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/onecocktail544@gmail.com)
 
 </div>
 
