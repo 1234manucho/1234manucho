@@ -4,37 +4,39 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142850&height=240&section=header&text=CHILLS%20CODER&fontSize=58&fontColor=FFD700&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Systems+Thinker"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data-Driven+Developer"/>
 
 </div>
 
 ---
 
-## 🤖 Your AI Engineer (Meet the Mascot)
+## 🤖 Meet My AI Mascot
 
 <div align="center">
 
 <img src="https://robohash.org/CHILLSCODER?set=set4&size=220x220" alt="Chills Coder Robot"/>
 
-### **CHILLS-BOT v1.0**
-_AI-Powered • Cloud-Native • Automation-Ready_
+### **CHILLS-BOT**
+_AI-Powered • Data-Driven • Cloud-Native_
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-I’m a **Full Stack Engineer & Automation Architect** focused on building  
-**intelligent, scalable, production-grade systems** across web, cloud, and AI.
+I’m a **highly motivated and versatile Full Stack Web Developer** with a **strong foundation in statistics and data science**.
 
-**Core strengths**
-- 🤖 AI systems & automation pipelines  
-- ☁️ Cloud-native microservices  
-- 🧩 Complex system architecture  
-- 📊 Data-driven platforms  
+My expertise goes beyond building applications — I **analyze data, extract insights, and design intelligent systems** that support data-driven decision-making.
 
-> I don’t just write code — I design **systems that think and scale**.
+### What I bring:
+- 🧠 Statistical thinking & data science methodologies  
+- 🐍 Advanced Python & Excel analytics  
+- 🤖 AI-assisted automation systems  
+- ☁️ Cloud-native & microservice architectures  
+- 🌐 Full-stack web engineering  
+
+> I build **smart systems**, not just software.
 
 ---
 
@@ -54,13 +56,15 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 
 ---
 
-## 🔗 Connect With Me
+## 🌍 Connect With Me
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baba_kaunty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/chills%20emmanuel)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/cocktail%20one)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cocktail%20one)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cocktail%20one)
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=0B1F3A)](mailto:onecocktail@gmail.com)
 
 </div>
@@ -71,7 +75,24 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,go,php,c,cpp,csharp,html,css,react,next,nodejs,flask,django,laravel,angular,mongodb,postgres,mysql,sqlite,firebase,docker,kubernetes,aws,gcp,azure,git,linux,nginx,tensorflow,pytorch&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,go,php,c,cpp,csharp,scala,r,html,css,react,next,nodejs,flask,django,laravel,angular,bootstrap,tailwind,mongodb,postgres,mysql,sqlite,firebase,docker,kubernetes,aws,gcp,azure,cloudflare,git,linux,nginx,tensorflow,pytorch&perline=12"/>
+
+</div>
+
+---
+
+## 🧠 Data Science & AI Stack
+
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 </div>
 
@@ -95,18 +116,6 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 
 ---
 
-## 🧠 Recent Development Activity (Live)
-
-<div align="center">
-
-<img src="https://github-readme-activity.vercel.app/graph?username=1234manucho&theme=github-dark&hide_border=true"/>
-
-</div>
-
-> Shows **real-time commits, merges, issues & PRs**
-
----
-
 ## 🗺️ Contribution Heatmap
 
 <div align="center">
@@ -117,12 +126,22 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 
 ---
 
+## 🧠 Recent Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity.vercel.app/graph?username=1234manucho&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🏆 Achievements & Certifications
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Architecture-AWS%20%7C%20GCP-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science%20%26%20Statistics-0B1F3A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%26%20Automation-TensorFlow%20%7C%20PyTorch-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source%20Contributor-✔-0B1F3A?style=for-the-badge"/>
 
@@ -137,20 +156,6 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=NjiaMoja&theme=dark&bg_color=0B1F3A&title_color=FFD700&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=1234manucho&repo=AgriTrue&theme=dark&bg_color=0B1F3A&title_color=FFD700&hide_border=true"/>
-
-</div>
-
-> Focused on **real-world impact, scalability, and automation**
-
----
-
-## ⚙️ Architecture & Automation Mindset
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="650"/>
-
-### Microservices • Cloud Pipelines • AI Orchestration
 
 </div>
 
@@ -169,7 +174,7 @@ I’m a **Full Stack Engineer & Automation Architect** focused on building
 
 ---
 
-## 👁 Profile Reach
+## 👁 Profile Views
 
 <div align="center">
 
