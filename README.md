@@ -7,8 +7,70 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data+Driven+Developer"/>
 
 </div>
+<svg width="240" height="260" viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* ===== ANIMATIONS ===== */
+    @keyframes blink {
+      0%, 92%, 100% { transform: scaleY(1); }
+      94%, 96% { transform: scaleY(0.1); }
+    }
 
----
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(4px); }
+    }
+
+    @keyframes wave {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(18deg); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes glow {
+      0% { filter: drop-shadow(0 0 4px #FFD700); }
+      50% { filter: drop-shadow(0 0 12px #FFD700); }
+      100% { filter: drop-shadow(0 0 4px #FFD700); }
+    }
+
+    .bot { animation: bob 3s ease-in-out infinite; }
+    .eye { animation: blink 5s infinite; transform-origin: center; }
+    .hand { transform-origin: top center; animation: wave 3s infinite ease-in-out; }
+    .antenna { animation: pulse 2s infinite; }
+    .core { animation: glow 2.5s infinite; }
+  </style>
+
+  <!-- ===== ANTENNA ===== -->
+  <line x1="120" y1="20" x2="120" y2="45" stroke="#FFD700" stroke-width="4"/>
+  <circle cx="120" cy="15" r="7" class="antenna" fill="#FFD700"/>
+
+  <!-- ===== ROBOT BODY ===== -->
+  <g class="bot">
+    <rect x="40" y="45" rx="24" ry="24" width="160" height="130" fill="#0B1F3A"/>
+
+    <!-- Eyes -->
+    <circle cx="85" cy="95" r="10" class="eye" fill="#FFD700"/>
+    <circle cx="155" cy="95" r="10" class="eye" fill="#FFD700"/>
+
+    <!-- Smile -->
+    <path d="M85 125 Q120 145 155 125" stroke="#FFD700" stroke-width="4" fill="none"/>
+
+    <!-- AI Core -->
+    <circle cx="120" cy="155" r="10" class="core" fill="#FFD700"/>
+
+    <!-- Hands -->
+    <rect x="18" y="105" width="22" height="70" rx="10" fill="#142850"/>
+    <rect x="200" y="105" width="22" height="70" rx="10" class="hand" fill="#142850"/>
+  </g>
+
+  <!-- Feet -->
+  <rect x="80" y="185" width="30" height="18" rx="8" fill="#142850"/>
+  <rect x="130" y="185" width="30" height="18" rx="8" fill="#142850"/>
+
+</svg>
 
 ## 🤖 CHILLS-BOT (Custom Animated Mascot)
 
