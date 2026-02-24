@@ -58,7 +58,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🚀 Core Tech Stack
+##  Core Tech Stack
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -90,7 +90,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🧬 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -110,7 +110,6 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🧠 Latest Repositories
 
 <div align="center">
 
@@ -123,7 +122,6 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
