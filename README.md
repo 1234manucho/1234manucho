@@ -8,7 +8,7 @@
 
 </div>
 
-<b>AI-Powered • Data-Driven • Always Building</b>
+
 <br/><br/>
 
 </div>
