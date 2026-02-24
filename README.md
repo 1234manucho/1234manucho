@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142850&height=230&section=header&text=CHILLS%20CODER&fontSize=58&fontColor=FFD700&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data+Driven+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data-Driven+Developer"/>
 
 </div>
 
@@ -15,6 +15,7 @@
 <div align="center">
 
 <svg width="240" height="260" viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg">
+
   <style>
     @keyframes blink {
       0%, 92%, 100% { transform: scaleY(1); }
@@ -37,6 +38,7 @@
       50% { filter: drop-shadow(0 0 12px #FFD700); }
       100% { filter: drop-shadow(0 0 4px #FFD700); }
     }
+
     .bot { animation: bob 3s ease-in-out infinite; }
     .eye { animation: blink 5s infinite; transform-origin: center; }
     .hand { transform-origin: top center; animation: wave 3s infinite ease-in-out; }
@@ -48,7 +50,7 @@
   <line x1="120" y1="20" x2="120" y2="45" stroke="#FFD700" stroke-width="4"/>
   <circle cx="120" cy="15" r="7" class="antenna" fill="#FFD700"/>
 
-  <!-- Body -->
+  <!-- Robot -->
   <g class="bot">
     <rect x="40" y="45" rx="24" ry="24" width="160" height="130" fill="#0B1F3A"/>
 
@@ -70,6 +72,7 @@
   <!-- Feet -->
   <rect x="80" y="185" width="30" height="18" rx="8" fill="#142850"/>
   <rect x="130" y="185" width="30" height="18" rx="8" fill="#142850"/>
+
 </svg>
 
 **AI-Powered • Data-Driven • Always Building**
@@ -143,7 +146,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🔥 Contribution Streak (Gold Fire)
+## 🔥 Contribution Streak
 
 <div align="center">
 
