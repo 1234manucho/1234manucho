@@ -13,6 +13,7 @@
 ## 🤖 CHILLS-BOT (Interactive AI Mascot)
 
 <div align="center">
+<br/>
 
 <svg width="240" height="260" viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg">
 
@@ -75,7 +76,9 @@
 
 </svg>
 
-**AI-Powered • Data-Driven • Always Building**
+<br/>
+<b>AI-Powered • Data-Driven • Always Building</b>
+<br/><br/>
 
 </div>
 
