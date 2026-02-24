@@ -7,35 +7,36 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data+Driven+Developer"/>
 
 </div>
+
+---
+
+## 🤖 CHILLS-BOT (Interactive AI Mascot)
+
+<div align="center">
+
 <svg width="240" height="260" viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* ===== ANIMATIONS ===== */
     @keyframes blink {
       0%, 92%, 100% { transform: scaleY(1); }
       94%, 96% { transform: scaleY(0.1); }
     }
-
     @keyframes bob {
       0%, 100% { transform: translateY(0); }
       50% { transform: translateY(4px); }
     }
-
     @keyframes wave {
       0%, 100% { transform: rotate(0deg); }
       50% { transform: rotate(18deg); }
     }
-
     @keyframes pulse {
       0%, 100% { opacity: 0.6; }
       50% { opacity: 1; }
     }
-
     @keyframes glow {
       0% { filter: drop-shadow(0 0 4px #FFD700); }
       50% { filter: drop-shadow(0 0 12px #FFD700); }
       100% { filter: drop-shadow(0 0 4px #FFD700); }
     }
-
     .bot { animation: bob 3s ease-in-out infinite; }
     .eye { animation: blink 5s infinite; transform-origin: center; }
     .hand { transform-origin: top center; animation: wave 3s infinite ease-in-out; }
@@ -43,11 +44,11 @@
     .core { animation: glow 2.5s infinite; }
   </style>
 
-  <!-- ===== ANTENNA ===== -->
+  <!-- Antenna -->
   <line x1="120" y1="20" x2="120" y2="45" stroke="#FFD700" stroke-width="4"/>
   <circle cx="120" cy="15" r="7" class="antenna" fill="#FFD700"/>
 
-  <!-- ===== ROBOT BODY ===== -->
+  <!-- Body -->
   <g class="bot">
     <rect x="40" y="45" rx="24" ry="24" width="160" height="130" fill="#0B1F3A"/>
 
@@ -69,14 +70,7 @@
   <!-- Feet -->
   <rect x="80" y="185" width="30" height="18" rx="8" fill="#142850"/>
   <rect x="130" y="185" width="30" height="18" rx="8" fill="#142850"/>
-
 </svg>
-
-## 🤖 CHILLS-BOT (Custom Animated Mascot)
-
-<div align="center">
-
-<img src="assets/chills-bot.svg" width="220"/>
 
 **AI-Powered • Data-Driven • Always Building**
 
@@ -86,9 +80,9 @@
 
 ## 💫 About Me
 
-I’m a **Full Stack Engineer** focused on building **scalable, intelligent, and data-driven systems** across web, cloud, and automation ecosystems.
+I’m a **Full Stack Engineer** building **scalable, intelligent, and data-driven systems** across web, cloud, and automation ecosystems.
 
-**What I do best**
+**What I specialize in**
 - 🚀 Modern Web Engineering  
 - ☁️ Cloud-Native Architectures  
 - 🤖 AI-Assisted Automation  
@@ -153,7 +147,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1234manucho&theme=highcontrast&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1234manucho&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 
 </div>
 
@@ -169,7 +163,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🧠 Recent Activity (Auto-Updating)
+## 🧠 Recent Activity
 
 <div align="center">
 
@@ -179,7 +173,7 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🧠 Latest Repositories (Auto-Rotating)
+## 🧠 Latest Repositories
 
 <div align="center">
 
@@ -192,34 +186,11 @@ I turn **ideas → production systems → scalable platforms**.
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 Advanced Full-Stack Engineering  
-- ☁️ Cloud Architecture & DevOps  
-- 🤖 AI & Machine Learning Systems  
-- 📊 Data-Driven Product Development  
-
-_(Certifications and awards updated continuously)_
-
----
-
-## 🌍 Open-Source Highlights
-
-- 🔓 Contributor to community-driven platforms  
-- 🧠 AI-powered document & media analysis tools  
-- 🌐 Scalable fintech & automation systems  
-- 🚀 Production-ready Flask & Cloud apps  
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
 
 </div>
 
