@@ -4,12 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142850&height=230&section=header&text=CHILLS%20CODER&fontSize=58&fontColor=FFD700&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data-Driven+Developer;Open Source Enthusiast;Problem Solver;Tech Innovator;Cloud Architect;ML Engineer;DevOps Expert"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+%2B+Cloud+Builder;Automation+Architect;Data-Driven+Developer"/>
 
 </div>
 
 
+
+<br/>
+<b>AI-Powered • Data-Driven • Always Building</b>
 <br/><br/>
 
 </div>
@@ -18,9 +20,15 @@
 
 ## 💫 About Me
 
-I am a **Full Stack Engineer** specializing in the design and development of **scalable, intelligent, and data-driven systems** across web, cloud, and automation platforms. With expertise in translating business requirements into robust, production-grade systems, I focus on building solutions that prioritize scalability, performance, and reliability.
+I’m a **Full Stack Engineer** building **scalable, intelligent, and data-driven systems** across web, cloud, and automation ecosystems.
 
-My core competencies span across 🚀 Full-Stack Web Development & Modern Architectures, ☁️ Cloud-Native Infrastructure & DevOps, 🤖 AI Integration & Intelligent Automation, and 📊 Data Analytics & Machine Learning Solutions. I'm passionate about creating innovative systems that solve complex problems and drive measurable business impact.
+**What I specialize in**
+- 🚀 Modern Web Engineering  
+- ☁️ Cloud-Native Architectures  
+- 🤖 AI-Assisted Automation  
+- 📊 Data Science & Analytics  
+
+I turn **ideas → production systems → scalable platforms**.
 
 ---
 
@@ -53,7 +61,7 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 ---
 
-##  Core Tech Stack
+## 🚀 Core Tech Stack
 
 <div align="center">
 
@@ -63,7 +71,7 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -73,6 +81,7 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 </div>
 
+---
 
 ## 🔥 Contribution Streak
 
@@ -82,7 +91,9 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 </div>
 
-##  GitHub Trophies
+---
+
+## 🧬 GitHub Trophies
 
 <div align="center">
 
@@ -102,6 +113,7 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 ---
 
+## 🧠 Latest Repositories
 
 <div align="center">
 
@@ -114,6 +126,7 @@ My core competencies span across 🚀 Full-Stack Web Development & Modern Archit
 
 ---
 
+## 🐍 Contribution Snake
 
 <div align="center">
 
